@@ -5,7 +5,7 @@ library(shinyBS)
 
 
 ui<-dashboardPage(
-    dashboardHeader(title = "Payzello Analytics"),
+    dashboardHeader(title = "Basic Analytics"),
     dashboardSidebar(
     sidebarMenu(
      menuItem("Dashboard", tabName = "dashboard", icon = icon("dashboard")),
