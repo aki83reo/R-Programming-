@@ -1,0 +1,5 @@
+card_type,trans_categories,trans_categories_amount
+physical,pos,20
+physical,atm,25
+physical,ecom,35
+virtual,ecom,79

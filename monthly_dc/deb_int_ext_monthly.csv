@@ -1,0 +1,12 @@
+trans_types,trans_categories,trans_categories_amount,debit_trans_cat
+debit,pos,20,external
+debit,atm,25,external
+debit,ecom,35,external
+debit,bharathQR,42,external
+debit,imps,75,external
+debit,split_money,22,internal
+debit,transfer,33,internal
+debit,request,41,internal
+debit,save,64,internal
+debit,recharge,22,internal
+credit,total_credit_amnt,500,none
